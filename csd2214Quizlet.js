@@ -8,5 +8,6 @@ function waitingFn(TimeINMs){
 
 }
 
+debugger;
 waitingFn(3000);
 
